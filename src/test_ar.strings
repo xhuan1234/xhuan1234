@@ -5,4 +5,5 @@
 "180.title" = "«Licensed To:»";
 
 /* Class = "NSTextFieldCell"; title = "«version»"; ObjectID = "181"; */
-"181.title" = "value "value1";
+"181.title" = "版本";
+"test.delta" = "full02"
